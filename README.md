@@ -1,19 +1,12 @@
 # Toktik - A Flutter Project
 
-## Importante:
-Los videos no están incluídos en el repositorio, debido a que son muy pesados y GitHub no lo permite.
+# DMI-10A-HELLOWORLD-FLUTTER helloworld_app_210124
 
-Pueden descargar 8 videos de aquí:
-[Pexels Free Videos](https://www.pexels.com/search/videos/vertical/)
+PRIMERA APLICACION REALIZADA EN FLUTTER PARA DISPOSIDTIVOS MOVILES, PARTE DE LA UNIDAD 2 DE LA ASIGNATURA DESARROLLO MOVIL INTEGRAL 
 
-Renombren esos videos así, ya que es lo que se encuentra en nuestro data source.
-```
-1.mp4
-2.mp4
-3.mp4
-4.mp4
-5.mp4ss
-6.mp4
-7.mp4
-8.mp4
-```
+
+
+### HISTORIAL DE PRACTICAS
+|NO.|NOMBRE|POTENCIADOR|ESTATUS|
+|--|--|--|--|
+|24|Creación del Proyecto y Modelo de Datos para App de Reproducción de Videos Verticales (Clon TokTik)  |8|ACTIVA|
