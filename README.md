@@ -10,3 +10,4 @@ PRIMERA APLICACION REALIZADA EN FLUTTER PARA DISPOSIDTIVOS MOVILES, PARTE DE LA 
 |NO.|NOMBRE|POTENCIADOR|ESTATUS|
 |--|--|--|--|
 |24|Creación del Proyecto y Modelo de Datos para App de Reproducción de Videos Verticales (Clon TokTik)  |8|ACTIVA|
+|25|Creacion Skill Alexa|10|ACTIVA|
