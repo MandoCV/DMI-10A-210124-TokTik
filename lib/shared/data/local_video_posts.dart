@@ -12,7 +12,7 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 1343,
   },
   {
-    'name': 'Que borroso veo todo!',
+    'name': 'Que borroso veo toodo!',
     'videoUrl': 'assets/videos/3.mp4',
     'likes': 21564320,
     'views': 123563,
