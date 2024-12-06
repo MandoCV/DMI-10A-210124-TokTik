@@ -1,15 +1,15 @@
 List<Map<String, dynamic>> videoPosts = [
   {
-    'name': 'Subiendo escaleras automáticas',
-    'videoUrl': 'assets/videos/1.mp4',
-    'likes': 23230,
-    'views': 1523,
+    "name": "lol q mal-Armando 210124",
+    "videoUrl": "assets/videos/1.mp4",
+    "likes": 4420,
+    "views": 33032
   },
   {
-    'name': 'Planta apreciada por peatones',
-    'videoUrl': 'assets/videos/2.mp4',
-    'likes': 24230,
-    'views': 1343,
+    "name": "potaxie -Armando 210124",
+    "videoUrl": "assets/videos/2.mp4",
+    "likes": 1342,
+    "views": 3332
   },
   {
     'name': 'Que borroso veo toodo!',
@@ -18,48 +18,72 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 123563,
   },
   {
-    'name': '¿Esto es trigo? que interesante',
-    'videoUrl': 'assets/videos/4.mp4',
-    'likes': 320,
-    'views': 2300,
+    "name": "jugada de 10",
+    "videoUrl": "assets/videos/4.mp4",
+    "likes": 2900,
+    "views": 15400
   },
   {
-    'name': 'El COVID no me afecta',
-    'videoUrl': 'assets/videos/5.mp4',
-    'likes': 3230,
-    'views': 31030,
+    "name": "fallo mortal",
+    "videoUrl": "assets/videos/5.mp4",
+    "likes": 1205,
+    "views": 9887
   },
   {
-    'name': 'No quiero ir a trabajar hoy señor Stark',
-    'videoUrl': 'assets/videos/6.mp4',
-    'likes': 10,
-    'views': 330,
+    "name": "victoria épica",
+    "videoUrl": "assets/videos/6.mp4",
+    "likes": 5203,
+    "views": 23785
   },
   {
-    'name': 'Limpiar nunca fue tan divertido',
-    'videoUrl': 'assets/videos/3.mp4',
-    'likes': 1320,
-    'views': 33032,
+    "name": "¡increíble!",
+    "videoUrl": "assets/videos/7.mp4",
+    "likes": 4065,
+    "views": 29900
   },
   {
-    'name': '¿Ya llegamos a la India?... umm si',
-    'videoUrl': 'assets/videos/1.mp4',
-    'likes': 342,
-    'views': 3332,
-  },
-{
-    'name': 'lol q mal',
-    'videoUrl': 'assets/videos/9.mp4',
-    'likes':4420,
-    'views': 33032,
+    "name": "lo logré",
+    "videoUrl": "assets/videos/8.mp4",
+    "likes": 8126,
+    "views": 40123
   },
   {
-    'name': 'potaxie',
-    'videoUrl': 'assets/videos/10.mp4',
-    'likes': 1342,
-    'views': 3332,
+    "name": "el reto imposible",
+    "videoUrl": "assets/videos/9.mp4",
+    "likes": 5603,
+    "views": 21678
   },
-
-];
+  {
+    "name": "jugada arriesgada",
+    "videoUrl": "assets/videos/10.mp4",
+    "likes": 1342,
+    "views": 3332
+  },
+  {
+    "name": "la mejor estrategia",
+    "videoUrl": "assets/videos/11.mp4",
+    "likes": 7521,
+    "views": 32144
+  },
+  {
+    "name": "fallo épico",
+    "videoUrl": "assets/videos/12.mp4",
+    "likes": 6003,
+    "views": 22455
+  },
+  {
+    "name": "sorpresa en el juego",
+    "videoUrl": "assets/videos/13.mp4",
+    "likes": 3682,
+    "views": 17999
+  },
+  {
+    "name": "sólo una oportunidad",
+    "videoUrl": "assets/videos/14.mp4",
+    "likes": 9250,
+    "views": 45100
+  }
+]
+;
 
 
