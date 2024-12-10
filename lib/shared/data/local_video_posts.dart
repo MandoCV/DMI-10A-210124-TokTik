@@ -1,13 +1,13 @@
 List<Map<String, dynamic>> videoPosts = [
   {
-    "name": "lol q mal-Armando 210124",
-    "videoUrl": "assets/videos/1.mp4",
+    "name": "Simposie UTXJ-Armando 210124",
+    "videoUrl": "assets/videos/15.mp4",
     "likes": 4420,
     "views": 33032
   },
   {
-    "name": "potaxie -Armando 210124",
-    "videoUrl": "assets/videos/2.mp4",
+    "name": "Feliz Navidarks -Armando 210124",
+    "videoUrl": "assets/videos/16.mp4",
     "likes": 1342,
     "views": 3332
   },
@@ -82,8 +82,12 @@ List<Map<String, dynamic>> videoPosts = [
     "videoUrl": "assets/videos/14.mp4",
     "likes": 9250,
     "views": 45100
+  },
+  {
+    "name": "sólo dos oportunidad",
+    "videoUrl": "assets/videos/1.mp4",
+    "likes": 9250,
+    "views": 45100
   }
 ]
 ;
-
-
